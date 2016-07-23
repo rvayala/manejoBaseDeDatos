@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Manejo Base de Datos (Contacto)</string>
+    <string name="headerApp">CONTACTO B.D.</string>
+    <string name="title_activity_lista_contacto">ListaContactoActivity</string>
+    <string name="hintNombre">Nombre</string>
+    <string name="hintCorreo">Correo</string>
+    <string name="hintTwitter">Twitter</string>
+</resources>
